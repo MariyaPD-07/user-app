@@ -2,6 +2,7 @@ import React from 'react'
 import UserNavbar from './UserNavbar'
 
 const DeleteUser = () => {
+    
   return (
     <div>
         <UserNavbar/>
